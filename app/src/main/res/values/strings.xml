@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">HelloBLE</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiZ2lhbmduZ28iLCJhIjoiY2twOG84MHE0MGMwYzJ2bjEza2tqMmhkZCJ9.ig-QrioVg4158QanPec79Q</string>
 </resources>

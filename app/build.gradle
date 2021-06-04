@@ -38,4 +38,5 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
     implementation 'no.nordicsemi.android:ble-livedata:2.2.4'
     implementation 'no.nordicsemi.android:log:2.3.0'
+    implementation 'com.mapbox.maps:android:10.0.0-beta.21'
 }
