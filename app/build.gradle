@@ -39,4 +39,5 @@ dependencies {
     implementation 'no.nordicsemi.android:ble-livedata:2.2.4'
     implementation 'no.nordicsemi.android:log:2.3.0'
     implementation 'com.mapbox.mapboxsdk:mapbox-android-sdk:9.6.1'
+    implementation 'com.mapbox.mapboxsdk:mapbox-android-plugin-places-v9:0.12.0'
 }
